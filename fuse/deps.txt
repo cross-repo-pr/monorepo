@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 - Coresdfjsdfhsdhfjsk
+=======
+- Managed
+
+Hmm is this right?
+>>>>>>> 3b3fd979fcdf3441b0c099c959c5add89241d8dd
